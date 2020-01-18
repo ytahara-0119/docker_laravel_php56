@@ -15,7 +15,7 @@
 コマンドで出力したファイルをcertに配置する。
 
 ## 4. ディレクトリ構成とファイル
-`docker
+docker
    ├── cert
    ├── db
    │   ├── Dockerfile
@@ -28,7 +28,7 @@
        ├── Dockerfile
        ├── default-ssl.conf
        └── php.ini
-`
+
 ## 4. Docker起動
 
 ### 1. docker設定ファイルの作成
